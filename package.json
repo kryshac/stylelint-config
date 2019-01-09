@@ -1,0 +1,41 @@
+{
+  "name": "@starlab/stylelint-config",
+  "version": "1.0.0",
+  "description": "StarLab StyleLint configuration",
+  "main": "index.js",
+  "files": [
+    "rules.json"
+  ],
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryshac/stylelint-config.git"
+  },
+  "keywords": [
+    "starlab",
+    "frontend",
+    "style",
+    "angular",
+    "stylelint",
+    "config",
+    "rules"
+  ],
+  "author": "Kryshac",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kryshac/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/kryshac/stylelint-config#readme",
+  "peerDependencies": {
+    "stylelint": "^9.9.0"
+  },
+  "dependencies": {
+    "stylelint-config-recess-order": "^2.0.1",
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "devDependencies": {
+    "stylelint": "^9.9.0"
+  }
+}
