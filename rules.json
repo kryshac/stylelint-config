@@ -8,6 +8,7 @@
     "function-url-scheme-blacklist": ["ftp", "/^http/", "/^www/", "//"],
     "keyframes-name-pattern": "ani-.+",
     "number-max-precision": 2,
+    "unit-blacklist": ["ms"],
     "shorthand-property-no-redundant-values": true,
     "value-no-vendor-prefix": true,
     "custom-property-pattern": "var-.+",
