@@ -21,3 +21,10 @@ and then add it as extension in your `.stylelintrc.json` file:
   "extends": ["@starlab/stylelint-config"]
 }
 ```
+
+The corresponding `.stylelintrc.yaml` file looks like this:
+
+```json
+extends:
+  - @starlab/stylelint-config
+```
