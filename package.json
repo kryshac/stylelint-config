@@ -1,6 +1,6 @@
 {
   "name": "@starlab/stylelint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "StarLab StyleLint configuration",
   "main": "index.js",
   "files": [
@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/kryshac/stylelint-config#readme",
   "peerDependencies": {
-    "stylelint": "^9.9.0"
+    "stylelint": "^9.10.1"
   },
   "dependencies": {
     "stylelint-config-recess-order": "^2.0.1",
     "stylelint-config-standard": "^18.2.0"
   },
   "devDependencies": {
-    "stylelint": "^9.9.0"
+    "stylelint": "^9.10.1"
   }
 }
