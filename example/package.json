@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "@starlab/stylelint-config": "../",
-    "stylelint": "^9.9.0"
+    "stylelint": "^10.0.0"
   }
 }
