@@ -67,7 +67,6 @@
       {
         "ignoreAtRules": ["function", "for", "if", "each", "include", "mixin"]
       }
-    ],
-    "function-calc-no-invalid": true
+    ]
   }
 }
