@@ -1,6 +1,6 @@
 {
   "name": "@starlab/stylelint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "StarLab StyleLint configuration",
   "main": "index.js",
   "files": [
